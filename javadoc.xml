@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="../EcoleModelEnonce/lib/mysql-connector-java-5.1.7-bin.jar;C:\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar;C:\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar" destdir="doc" doctitle="JavaDocTest" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.ecetech.b3.poo.test,com.ecetech.b3.poo.beans,com.ecetech.b3.poo.common,com.ecetech.b3.poo.connection,com.ecetech.b3.poo.DAO" source="1.7" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
